@@ -1,0 +1,199 @@
+[{
+  "_id": {
+    "$oid": "62225fad0042ba0aa4eb12c4"
+  },
+  "address": null,
+  "type": 1,
+  "status": 1,
+  "inactiveDate": null,
+  "name": "Mr Jon",
+  "email": "jon@gmail.com",
+  "password": "$2b$11$1umOWPd/XbOSvUDI4SczE.0wPGurZKHCGavHgJxLIBiMKI8uJvT22",
+  "contact": 1554554564,
+  "createdAt": {
+    "$date": "2022-03-04T18:51:25.780Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-04T18:51:25.780Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622260070042ba0aa4eb12cc"
+  },
+  "address": null,
+  "type": 2,
+  "status": 0,
+  "inactiveDate": {
+    "$date": "2022-03-05T08:05:41.981Z"
+  },
+  "name": "Mr Leo",
+  "password": "$2b$11$qxy6pKa/zr/LggTgHMCiU.gkMtGuG7/e34PZw63bEvXoxF5bwZ9TS",
+  "contact": 1554554564,
+  "email": "Leo@gmail.com",
+  "createdAt": {
+    "$date": "2022-03-04T18:52:55.259Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-05T08:05:41.981Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62226086deed7e0ed48ed9b9"
+  },
+  "address": null,
+  "type": 2,
+  "status": 0,
+  "inactiveDate": {
+    "$date": "2022-03-05T08:09:09.084Z"
+  },
+  "name": "Mr Leo",
+  "password": "$2b$11$ovMdj29rxC8oGyFy4yJLLeXbXBwaSif6yqcKZHVS8e5l1OONtvRcq",
+  "contact": 1554554564,
+  "email": "Leo2@gmail.com",
+  "createdAt": {
+    "$date": "2022-03-04T18:55:02.043Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-05T08:09:09.086Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622260a166e6451c403326f5"
+  },
+  "address": null,
+  "type": 2,
+  "status": 0,
+  "inactiveDate": {
+    "$date": "2022-03-05T18:40:52.611Z"
+  },
+  "name": "Mr Leo",
+  "password": "$2b$11$veWZzE5M94us67Jbq0Bz3eZNVWeEZC4xWCgOuRjQ5f734afGOqPX6",
+  "contact": 1554554564,
+  "email": "Leo3@gmail.com",
+  "createdAt": {
+    "$date": "2022-03-04T18:55:29.849Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-05T18:40:52.612Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6223195db039dc0ef86e19fb"
+  },
+  "address": null,
+  "type": 2,
+  "status": 0,
+  "inactiveDate": {
+    "$date": "2022-03-05T18:44:20.721Z"
+  },
+  "name": "Md Siam",
+  "password": "$2b$11$UMb6M1.Rw0m0HdZt9WOYPOXXWTftZIFadkxTQKyr02WaIB6CAwsU.",
+  "contact": 155555555555,
+  "email": "siam@gmail.com",
+  "createdAt": {
+    "$date": "2022-03-05T08:03:41.184Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-05T18:44:20.723Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622319c5025b5c1aa812d1c7"
+  },
+  "address": null,
+  "type": 2,
+  "status": 1,
+  "inactiveDate": null,
+  "name": "Rakib",
+  "password": "$2b$11$X6oYEs2esLn/rL6QH07tnOuEGizTa2VwweFtOrF7w5BdWcT6d0vCu",
+  "contact": 32423423423,
+  "email": "rakib@lubyc.com",
+  "createdAt": {
+    "$date": "2022-03-05T08:05:25.506Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-05T08:05:25.506Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "622319d5025b5c1aa812d1cd"
+  },
+  "address": null,
+  "type": 2,
+  "status": 1,
+  "inactiveDate": null,
+  "name": "Rakib",
+  "password": "$2b$11$mr0S7OcYKtwBIP/9M7umB.flvxGYH5e6G7qY.rQHXZEYTR5H/5KMm",
+  "contact": 32423423423,
+  "email": "rakib2@lubyc.com",
+  "createdAt": {
+    "$date": "2022-03-05T08:05:41.985Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-05T08:05:41.985Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62231aa5cb706221e440df87"
+  },
+  "address": null,
+  "type": 2,
+  "status": 1,
+  "inactiveDate": null,
+  "name": "Rabby",
+  "password": "$2b$11$q0Hm4RyL4wojlFdJcvIVj.98glO0MrjdKVZzyjVViZ3u95p9UtqiC",
+  "contact": 55544555544,
+  "email": "rabby@lubyc.com",
+  "createdAt": {
+    "$date": "2022-03-05T08:09:09.101Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-05T08:09:09.101Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6223aeb4a21e6d2bdcf8b463"
+  },
+  "address": null,
+  "type": 2,
+  "status": 1,
+  "inactiveDate": null,
+  "name": "Editor",
+  "password": "$2b$11$pHgZ1yBGbOABeXoJNnuPv.lwYUZiHeZjp/StnRU7z23uauR6fWaWK",
+  "contact": 155555555555,
+  "email": "editor@gmail.com",
+  "createdAt": {
+    "$date": "2022-03-05T18:40:52.626Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-05T18:40:52.626Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6223af84865aef2164b6e73a"
+  },
+  "address": null,
+  "type": 3,
+  "status": 1,
+  "inactiveDate": null,
+  "name": "Administrator",
+  "password": "$2b$11$NMw.vzExYcte9TwkisCvfuwRS1JEGZkErZ5BPf4cbcJsCdWvx09MW",
+  "contact": 17544554565,
+  "email": "admin@gmail.com",
+  "createdAt": {
+    "$date": "2022-03-05T18:44:20.736Z"
+  },
+  "updatedAt": {
+    "$date": "2022-03-05T18:44:20.736Z"
+  },
+  "__v": 0
+}]
